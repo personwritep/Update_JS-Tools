@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Update JS-Tools
 // @namespace        http://tampermonkey.net/
-// @version        0.3
+// @version        0.2
 // @description        スクリプトツール一覧表からスクリプトツールをアップデート
 // @author        Ameba Blog User
 // @match        https://ameblo.jp/personwritep/entry-12762321136.html
